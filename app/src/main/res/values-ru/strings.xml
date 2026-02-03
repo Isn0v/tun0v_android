@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tun0v</string>
+    <string name="enter_link_label">Введите ссылку</string>
+    <string name="download_label">Скачать</string>
+</resources>

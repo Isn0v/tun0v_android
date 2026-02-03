@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">tun0v</string>
+    <string name="enter_link_label">Enter a link</string>
+    <string name="download_label">Download</string>
 </resources>
